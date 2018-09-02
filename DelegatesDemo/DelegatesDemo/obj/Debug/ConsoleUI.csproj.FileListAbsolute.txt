@@ -1,0 +1,13 @@
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegateDemoLibrary.dll
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\bin\Debug\DelegateDemoLibrary.pdb
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.DelegateDemoUI.resources
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.Properties.Resources.resources
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\ConsoleUI.csproj.GenerateResource.cache
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.pdb

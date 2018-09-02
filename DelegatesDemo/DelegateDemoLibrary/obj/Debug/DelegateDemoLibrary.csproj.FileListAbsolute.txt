@@ -1,0 +1,6 @@
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegateDemoLibrary\bin\Debug\DelegateDemoLibrary.dll
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegateDemoLibrary\bin\Debug\DelegateDemoLibrary.pdb
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegateDemoLibrary\obj\Debug\DelegateDemoLibrary.csprojAssemblyReference.cache
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegateDemoLibrary\obj\Debug\DelegateDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegateDemoLibrary\obj\Debug\DelegateDemoLibrary.dll
+C:\Users\DickButt\source\repos\DelegatesDemo\DelegateDemoLibrary\obj\Debug\DelegateDemoLibrary.pdb
