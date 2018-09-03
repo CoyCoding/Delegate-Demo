@@ -12,25 +12,27 @@ namespace DelegateDemoLibrary
 
         public ShoppingCartModel()
         {
-            Cart = new List<ProductModel>(); 
+            Items = new List<ProductModel>(); 
         }
 
-        public List<ProductModel> Cart{ get; set; }
+        public List<ProductModel> Items{ get; set; }
 
         //Delegated generate Total
         //Nomally I would not have three delegates like this. 
 
-        public decimal GenerateTotal(MentionPreTotal mentionPreTotal, Func<List<ProductModel>, decimal, decimal>
-            calculateDiscountedTotal, Action<string> mentionDiscount)
+        public decimal GenerateTotal(
+            MentionPreTotal mentionPreTotal, 
+            Func<List<ProductModel>, decimal, decimal> calculateDiscountedTotal, 
+            Action<string> mentionDiscount)
         {   
             //preTotal = Sum of all item prices in the cart
-            decimal preTotal = Cart.Sum(items => items.Price);
+            decimal preTotal = Items.Sum(items => items.Price);
 
             mentionPreTotal(preTotal);
 
-            mentionDiscount("After applying your discount:");
+            mentionDiscount("(The Action Delegate) After applying your discount:");
 
-            return calculateDiscountedTotal(Cart, preTotal);
+            return calculateDiscountedTotal(Items, preTotal);
 
         }
     }
